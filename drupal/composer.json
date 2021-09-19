@@ -18,7 +18,6 @@
         "composer/installers": "^1.2",
         "drupal/addtoany": "^1.14",
         "drupal/admin_toolbar": "^3.0",
-        "drupal/adsense": "^1.2",
         "drupal/blazy": "^2.1",
         "drupal/ckeditor_font": "^1.1",
         "drupal/colorbox": "^1.7",
